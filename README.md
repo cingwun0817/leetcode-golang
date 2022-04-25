@@ -11,3 +11,5 @@
 | 763 | Partition Labels | [L](https://leetcode.com/problems/partition-labels/) | Medium |
 | 13 | Roman to Integer | [L](https://leetcode.com/problems/roman-to-integer/) | Easy |
 | 14 | Longest Common Prefix | [L](https://leetcode.com/problems/longest-common-prefix/) | Easy |
+| 237 | Delete Node in a Linked List | [L](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Easy |
+| 344 | Reverse String | [L](https://leetcode.com/problems/reverse-string/) | Easy |
