@@ -16,3 +16,4 @@
 | 104 | Maximum Depth of Binary Tree | [L](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy |
 | 21 | Merge Two Sorted Lists | [L](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy |
 | 26 | Remove Duplicates from Sorted Array | [L](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy |
+| 94 | Binary Tree Inorder Traversal | [L](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy |
