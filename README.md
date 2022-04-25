@@ -17,3 +17,5 @@
 | 21 | Merge Two Sorted Lists | [L](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy |
 | 26 | Remove Duplicates from Sorted Array | [L](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy |
 | 94 | Binary Tree Inorder Traversal | [L](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy |
+| 136 | Single Number | [L](https://leetcode.com/problems/single-number/) | Easy |
+| 283 | Move Zeroes | [L](https://leetcode.com/problems/move-zeroes/) | Easy |
