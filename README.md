@@ -19,3 +19,4 @@
 | 94 | Binary Tree Inorder Traversal | [L](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy |
 | 136 | Single Number | [L](https://leetcode.com/problems/single-number/) | Easy |
 | 283 | Move Zeroes | [L](https://leetcode.com/problems/move-zeroes/) | Easy |
+| 28 | Implement strStr() | [L](https://leetcode.com/problems/implement-strstr/) | Easy |
