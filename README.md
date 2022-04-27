@@ -22,3 +22,4 @@
 | 28 | Implement strStr() | [L](https://leetcode.com/problems/implement-strstr/) | Easy |
 | 66 | Plus One | [L](https://leetcode.com/problems/plus-one/) | Easy |
 | 88 | Merge Sorted Array | [L](https://leetcode.com/problems/merge-sorted-array/) | Easy |
+| 268 | Missing Number | [L](https://leetcode.com/problems/missing-number/) | Easy |
