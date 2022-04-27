@@ -23,3 +23,4 @@
 | 66 | Plus One | [L](https://leetcode.com/problems/plus-one/) | Easy |
 | 88 | Merge Sorted Array | [L](https://leetcode.com/problems/merge-sorted-array/) | Easy |
 | 268 | Missing Number | [L](https://leetcode.com/problems/missing-number/) | Easy |
+| 387 | First Unique Character in a String | [L](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy |
