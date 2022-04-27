@@ -24,3 +24,5 @@
 | 88 | Merge Sorted Array | [L](https://leetcode.com/problems/merge-sorted-array/) | Easy |
 | 268 | Missing Number | [L](https://leetcode.com/problems/missing-number/) | Easy |
 | 387 | First Unique Character in a String | [L](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy |
+| 202 | Happy Number | [L](https://leetcode.com/problems/happy-number/) | Easy |
+| 141 | Linked List Cycle | [L](https://leetcode.com/problems/linked-list-cycle/) | Easy |
