@@ -1,4 +1,8 @@
 func firstUniqChar(s string) int {
+	if len(s) < 1 || len(s) > int(math.Pow10(5)) {
+		return -1
+	}
+
 	m := map[int32]int{}
 
 	for _, char := range s {
